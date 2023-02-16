@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My2</string>
+    <string-array name="Countries">
+        <item>america</item>
+        <item>canada</item>
+        <item>emarat</item>
+        <item>iran</item>
+        <item>english</item>
+        <item>euro</item>
+    </string-array>
+</resources>

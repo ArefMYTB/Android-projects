@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My2</string>
+    <string-array name="Books">
+        <item>Consent</item>
+        <item>Creepy Old Guy</item>
+        <item>Dagger</item>
+        <item>Deviate</item>
+        <item>Green Soldier</item>
+    </string-array>
+    <string-array name="Authors">
+        <item>Nancy Ohlin</item>
+        <item>Carolyn Keene</item>
+        <item>John Premade</item>
+        <item>Tracy Clark</item>
+        <item>Edward Gore</item>
+    </string-array>
+    <string-array name="Description">
+        <item>In this “layered and thoughtful contemporary novel,” (School Library Journal) an intense—and passionate—bond between a high school senior and her music teacher becomes a public scandal that threatens the reputation of both.</item>
+        <item>In Camp Creepy, the girls take a school trip to Taos, New Mexico! A classmate’s uncle has opened a new camp and the kids of River Heights Elementary are invited to come test it out. But when a series of mysterious incidents ruin Nancy’s art project, Nancy thinks something eerie is at work. Could she have upset the Taos Indian spirits?</item>
+        <item>Action sci fi</item>
+        <item>Learning the truth about herself was just the beginning.Tormented after a daring escape, Cora Sandoval must find a way to stop the Arrazi from murdering innocent people and from violating, using, and killing the Scintilla for their powers. </item>
+        <item>John Gore is eighteen years old in 1862 rural Kentucky. He has struggled his entire life with stuttering and the ridicule associated with it. Unable to speak well, he has focused on writing.</item>
+    </string-array>
+</resources>
