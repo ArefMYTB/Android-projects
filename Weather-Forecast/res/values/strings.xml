@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">My2</string>
+
+    <string-array name="array_Iranian_province">
+        <item>Select Your Province</item>
+        <item>Tehran</item><item>Yazd</item><item>Esfahan</item><item>Kerman</item><item>Fars</item>
+    </string-array>
+
+    <string-array name="array_default_city">
+        <item>Select Your City</item>
+    </string-array>
+
+    <string-array name="array_Tehran_city">
+        <item>Select Your District</item>
+        <item>Tehran</item><item>Damavand</item><item>Firooz Abad</item>
+    </string-array>
+
+    <string-array name="array_Yazd_city">
+        <item>Select Your District</item>
+        <item>Yazd</item><item>Mehriz</item><item>Meybod</item><item>Bafq</item><item>Zarch</item>
+    </string-array>
+
+    <string-array name="array_Esfahan_city">
+        <item>Select Your District</item>
+        <item>Esfahan</item><item>Shahreza</item><item>Najaf Abad</item>
+    </string-array>
+
+    <string-array name="array_Kerman_city">
+        <item>Select Your District</item>
+        <item>Kerman</item><item>Rafsanjan</item><item>Sirjan</item>
+    </string-array>
+
+    <string-array name="array_Fars_city">
+        <item>Select Your District</item>
+        <item>Fars</item><item>Shiraz</item><item>Lar</item>
+    </string-array>
+
+</resources>
